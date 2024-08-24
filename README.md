@@ -27,7 +27,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/ChequeWise.git
+    git clone https://github.com/GarbhitSh/ChequeWise.git
     cd ChequeWise
     ```
 
